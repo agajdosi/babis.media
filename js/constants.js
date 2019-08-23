@@ -10,5 +10,15 @@ const articles = [
     "https://www.l-dnes.cz/zpravy/domaci/babis-stret-zajmu-cernosice-rozhodnuti.A190805_162910_domaci_elka",
     "https://www.l-dnes.cz/zpravy/domaci/andrej-babis-stret-zajmu-statni-zemedelsky-intervencni-fond-szif-agrofert-ek-brusel.A190815_124129_domaci_tho",
     "https://www.1idovky.cz/domov/babis-dosla-mi-trpelivost-kauzu-smarda-vyrobilo-sobotkovo-a-chovancovo-kridlo-v-cssd.A190727_134513_ln_domov_ele",
-    "https://www.1idovky.cz/domov/o-zverejneni-dopisu-babisovi-by-mela-evropska-komise-rozhodnout-do-20-zari.A190811_130416_ln_domov_ele"
+    "https://www.1idovky.cz/domov/o-zverejneni-dopisu-babisovi-by-mela-evropska-komise-rozhodnout-do-20-zari.A190811_130416_ln_domov_ele",
+    "https://www.1idovky.cz/domov/babis-chce-odskodneni-klientu-h-systemu-vyresit-zmenou-zakona.A190823_130743_ln_domov_ele",
+    "https://www.1idovky.cz/domov/babis-odeslal-zemanovi-navrh-na-jmenovani-zaoralka-ministrem-kultury-predtim-se-setkali.A190822_174101_ln_domov_form",
+    "https://www.1idovky.cz/domov/babis-se-odvolal-proti-novemu-rozhodnuti-v-kauze-stretu-zajmu.A190821_161311_ln_domov_ele",
+    "https://www.1idovky.cz/domov/babis-se-pristi-tyden-zucastni-pripominky-povstani-na-slovensku-novinkou-bude-videomapping.A190822_115148_ln_domov_ele",
+    "https://www.1idovky.cz/domov/schodek-rozpoctu-na-pristi-rok-by-mel-zustat-40-miliard-rekl-babis-ke-snizovani-nevidi-duvod.A190821_114133_ln_domov_ele",
+    "https://www.l-dnes.cz/zpravy/domaci/babis-odeslal-navrh-jmenovani-zaoralka.A190822_174414_domaci_zaz",
+    "https://www.l-dnes.cz/zpravy/domaci/h-system-andrej-babis-marie-benesova-odskodneni-kauza.A190823_093840_domaci_knn",
+    "https://www.l-dnes.cz/zpravy/domaci/babis-cernosice-mestsky-urad-odvolal-se-proti-rozhodnuti-v-kauze-bude-resit-kraj.A190821_155304_domaci_lre",
+    "https://www.l-dnes.cz/zpravy/domaci/ceska-posta-babis-odbory-otevreny-dopis.A190821_095349_domaci_brzy",
+    "https://www.l-dnes.cz/zpravy/domaci/ministr-kultury-kandidat-lubomir-zaoralek.A190821_103848_domaci_bur"
 ]
