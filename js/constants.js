@@ -51,14 +51,15 @@ const printed = [ "https://lidov.ky/domov/babis-stahl-zalobu-na-byvaleho-clena-s
 ]
 
 const articles = [
-    "https://l-dnes.cz/zpravy/domaci/babis-zahajeni-skolniho-roku-capi-hnizdo.A190902_105158_domaci_zaz",
-    "https://l-dnes.cz/zpravy/domaci/zastaveni-stihani-babise-ohlasy-politiku.A190913_111718_domaci_kop",
-    "https://l-dnes.cz/zpravy/domaci/v4-balkan-babis-evropa-polsko-premieri-cr.A190912_092345_domaci_maka",
-    "https://l-dnes.cz/plzen/zpravy/demonstrace-milion-chvilek-zaloba-premier-andrej-babis-nadavky-vyhruzky.A190911_501220_plzen-zpravy_vb",
-    "https://l-dnes.cz/zpravy/domaci/babis-kritika-sefa-nku-kala-jednani-vlady-kontrolni-zpravy.A190909_153210_domaci_kop",
-    "https://lidov.ky/domov/statni-zastupce-zastavil-trestni-stihani-babise-a-dalsich-v-kauze-capi-hnizdo.A190913_110636_ln_domov_ele",
-    "https://lidov.ky/domov/zive-babis-komentuje-aktualni-rozhodnuti-zalobcu-kteri-zastavili-trestni-stihani-premiera.A190913_133233_ln_domov_vag",
-    "https://lidov.ky/domov/babis-navrh-jednat-v-koalici-o-zdravotnictvi-je-od-cssd-drzost.A190909_162240_ln_domov_ele",
-    "https://lidov.ky/domov/premier-babis-se-ma-omluvit-za-sve-vyroky-o-zaplacenych-demonstrantech-rozhodl-nepravomocne-soud.A190906_093609_ln_domov_ele",
+    "https://l-dnes.cz/ekonomika/domaci/petr-kellner-zebricek-miliardaru-nejbohatsich-cechu-andrej-babis-agrofert-majetek.A190924_102302_ekonomika_mato",
+    "https://l-dnes.cz/zpravy/zahranicni/babis-osn-projev-new-york-cesko-zahranicni-politika-evropska-unie.A190926_052752_zahranicni_rts",
+    "https://l-dnes.cz/zpravy/zahranicni/andrej-banis-osn-trump-klima-byznys-czechinvest-diplomacie.A190924_210129_zahranicni_rts",
+    "https://l-dnes.cz/zpravy/domaci/kscm-filip-zdravotnictvi-vice-penez-odbory-zdravotnictvi.A190925_153727_domaci_kop",
+    "https://l-dnes.cz/zpravy/zahranicni/babis-osn-klima-summit-greta-thunbergova.A190924_055519_zahranicni_bur",
+    "https://lidov.ky/domov/babis-v-osn-cilem-ceska-je-stat-se-lidrem-v-inovacich-boj-za-klima-nesmi-byt-na-ukor-prosperity.A190926_070448_ln_domov_vag",
+    "https://lidov.ky/domov/babis-pozval-zelenskeho-do-prahy-s-erdoganem-chce-resit-migraci.A190925_071129_ln_domov_vag",
+    "https://lidov.ky/domov/cely-projev-ceskeho-premiera-andreje-babise-na-valnem-shromazdeni-osn.A190926_071226_ln_domov_ele",
+    "https://lidov.ky/domov/cesko-podle-babise-dodrzuje-klimaticke-zavazky-ostatni-ale-ne.A190923_184106_ln_domov_ele",
+    "https://lidov.ky/domov/projev-thunbergove-byl-zajimavy-vadila-mi-ale-ta-hysterie-a-agresivita-prohlasil-babis.A190924_195754_ln_domov_ele"
 ]
 
