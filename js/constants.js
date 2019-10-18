@@ -51,15 +51,10 @@ const printed = [ "https://lidov.ky/domov/babis-stahl-zalobu-na-byvaleho-clena-s
 ]
 
 const articles = [
-    "https://l-dnes.cz/ekonomika/domaci/petr-kellner-zebricek-miliardaru-nejbohatsich-cechu-andrej-babis-agrofert-majetek.A190924_102302_ekonomika_mato",
-    "https://l-dnes.cz/zpravy/zahranicni/babis-osn-projev-new-york-cesko-zahranicni-politika-evropska-unie.A190926_052752_zahranicni_rts",
-    "https://l-dnes.cz/zpravy/zahranicni/andrej-banis-osn-trump-klima-byznys-czechinvest-diplomacie.A190924_210129_zahranicni_rts",
-    "https://l-dnes.cz/zpravy/domaci/kscm-filip-zdravotnictvi-vice-penez-odbory-zdravotnictvi.A190925_153727_domaci_kop",
-    "https://l-dnes.cz/zpravy/zahranicni/babis-osn-klima-summit-greta-thunbergova.A190924_055519_zahranicni_bur",
-    "https://lidov.ky/domov/babis-v-osn-cilem-ceska-je-stat-se-lidrem-v-inovacich-boj-za-klima-nesmi-byt-na-ukor-prosperity.A190926_070448_ln_domov_vag",
-    "https://lidov.ky/domov/babis-pozval-zelenskeho-do-prahy-s-erdoganem-chce-resit-migraci.A190925_071129_ln_domov_vag",
-    "https://lidov.ky/domov/cely-projev-ceskeho-premiera-andreje-babise-na-valnem-shromazdeni-osn.A190926_071226_ln_domov_ele",
-    "https://lidov.ky/domov/cesko-podle-babise-dodrzuje-klimaticke-zavazky-ostatni-ale-ne.A190923_184106_ln_domov_ele",
-    "https://lidov.ky/domov/projev-thunbergove-byl-zajimavy-vadila-mi-ale-ta-hysterie-a-agresivita-prohlasil-babis.A190924_195754_ln_domov_ele"
+    "https://l-dnes.cz/zpravy/domaci/babis-hrad-kandidatura-zeman-televize-nova-strepiny.A191007_111600_domaci_kop",
+    "https://l-dnes.cz/zpravy/domaci/babis-zdaneni-financnich-nahrad-cirkvim-cirkevni-restituce.A191016_142259_domaci_cern",
+    "https://l-dnes.cz/zpravy/domaci/nemocnice-na-bulovce-praha-by-mela-bulovku-prevest-na-stat-za-korunu-babis-vojtech.A191016_130624_domaci_cern",
+    "https://lidov.ky/domov/prijmy-se-maji-danit-restituce-jsou-predrazene-prohlasil-babis.A191016_134746_ln_domov_ele",
+    "https://lidov.ky/byznys/firmy-a-trhy/babis-zrusil-vraceni-neopravnene-dotace-dcerine-firme-holdingu-syner-group.A191017_091822_firmy-trhy_ele",
+    "https://lidov.ky/domov/cesko-musi-stavet-jaderne-bloky-i-kdyby-porusilo-pravo-eu-rekl-babis.A191016_104718_ln_domov_ele"
 ]
-
