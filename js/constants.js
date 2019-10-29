@@ -51,10 +51,12 @@ const printed = [ "https://lidov.ky/domov/babis-stahl-zalobu-na-byvaleho-clena-s
 ]
 
 const articles = [
-    "https://l-dnes.cz/zpravy/domaci/babis-hrad-kandidatura-zeman-televize-nova-strepiny.A191007_111600_domaci_kop",
-    "https://l-dnes.cz/zpravy/domaci/babis-zdaneni-financnich-nahrad-cirkvim-cirkevni-restituce.A191016_142259_domaci_cern",
-    "https://l-dnes.cz/zpravy/domaci/nemocnice-na-bulovce-praha-by-mela-bulovku-prevest-na-stat-za-korunu-babis-vojtech.A191016_130624_domaci_cern",
-    "https://lidov.ky/domov/prijmy-se-maji-danit-restituce-jsou-predrazene-prohlasil-babis.A191016_134746_ln_domov_ele",
-    "https://lidov.ky/byznys/firmy-a-trhy/babis-zrusil-vraceni-neopravnene-dotace-dcerine-firme-holdingu-syner-group.A191017_091822_firmy-trhy_ele",
-    "https://lidov.ky/domov/cesko-musi-stavet-jaderne-bloky-i-kdyby-porusilo-pravo-eu-rekl-babis.A191016_104718_ln_domov_ele"
+    "https://l-dnes.cz/zpravy/domaci/senator-wagenknecht-pravidla-proti-stretu-zajmu-andrej-babis-evropska-rada-zaloba.A191029_105351_domaci_lre",
+    "https://l-dnes.cz/brno/zpravy/andrej-babis-vladimir-kremlik-jednodussi-cestovani-postizeni-veletrh-rehaprotex.A191029_080259_domaci_may",
+    "https://l-dnes.cz/zpravy/domaci/andrej-babis-japonsko-letadlo-airbus-nouzove-pristani.A191027_165256_domaci_knn",
+    "https://l-dnes.cz/ekonomika/doprava/sleva-ministerstvo-dopravy-jizdne-zeleznice-babis.A191029_153708_eko-doprava_mato",
+    "https://lidov.ky/domov/babis-doufa-ze-britska-vlada-co-nejdriv-vyjasni-dalsi-postup-cesti-politici-kritikou-nesetri.A191019_175427_ln_domov_ele",
+    "https://lidov.ky/byznys/doprava/ministerstvo-dopravy-zvazuje-zastropovani-cen-jizdenek-na-zeleznici.A191029_163134_ln-doprava_ele",
+    "https://lidov.ky/domov/zeman-opet-nejmenoval-reditele-bis-koudelku-generalem-navrh-odmitl-uz-poctvrte.A191028_121822_ln_domov_vlh",
+    "https://lidov.ky/domov/babis-by-rad-privital-v-cesku-japonskeho-cisare-a-premiera-v-tokiu-zastupoval-zemana.A191022_142534_ln_domov_vlh"
 ]
