@@ -51,10 +51,6 @@ const printed = [ "https://lidov.ky/domov/babis-stahl-zalobu-na-byvaleho-clena-s
 ]
 
 const articles = [
-    "https://l-dnes.cz/zpravy/domaci/senator-wagenknecht-pravidla-proti-stretu-zajmu-andrej-babis-evropska-rada-zaloba.A191029_105351_domaci_lre",
-    "https://l-dnes.cz/brno/zpravy/andrej-babis-vladimir-kremlik-jednodussi-cestovani-postizeni-veletrh-rehaprotex.A191029_080259_domaci_may",
-    "https://l-dnes.cz/zpravy/domaci/andrej-babis-japonsko-letadlo-airbus-nouzove-pristani.A191027_165256_domaci_knn",
-    "https://l-dnes.cz/ekonomika/doprava/sleva-ministerstvo-dopravy-jizdne-zeleznice-babis.A191029_153708_eko-doprava_mato",
     "https://lidov.ky/domov/babis-doufa-ze-britska-vlada-co-nejdriv-vyjasni-dalsi-postup-cesti-politici-kritikou-nesetri.A191019_175427_ln_domov_ele",
     "https://lidov.ky/byznys/doprava/ministerstvo-dopravy-zvazuje-zastropovani-cen-jizdenek-na-zeleznici.A191029_163134_ln-doprava_ele",
     "https://lidov.ky/domov/zeman-opet-nejmenoval-reditele-bis-koudelku-generalem-navrh-odmitl-uz-poctvrte.A191028_121822_ln_domov_vlh",
