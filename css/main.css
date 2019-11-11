@@ -1,0 +1,64 @@
+html {
+    font-size: 2em;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Permanent Marker', cursive;
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+    text-align: center;
+    margin: 5vh 0 0 0;
+}
+
+.subheader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 20vh 0 20vh 0;
+}
+
+.main div, a, p {
+    margin: 15px;
+}
+
+.lang {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+    position: absolute;
+    bottom: 5vh;
+    left: 5vw;
+}
+
+.censored {
+    text-decoration: line-through;
+}
+
+
+@media only screen and (max-width: 900px) {
+
+h1 {
+    font-size: 2em;
+}
+
+.subheader {
+    font-size: 0.5em;
+}
+
+}
